@@ -8,7 +8,7 @@
 
 Since the dataset is too large for GitHub, it is hosted on Google Drive. The notebook is pre-configured to download it automatically.
 
-1.  **Open the Notebook**: Click the badge below to open the notebook directly in Google Colab:
+1.  **Open the Notebook**: Click the badge below to open the notebook directly in Google Colab: https://colab.research.google.com/drive/1lLF5JRxlvz9U6sow1j7QhzEIM1Nk3ZVL#scrollTo=B0Yn2BGHy07S
    
 
 2.  **Run All**: In Colab, go to **Runtime > Run all**.
