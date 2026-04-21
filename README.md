@@ -15,7 +15,7 @@ This project identifies at-risk social media posts using NLP. We prioritize **Re
 Since the dataset is too large for GitHub, it is hosted on Google Drive. The notebook is pre-configured to download it automatically.
 
 1.  **Open the Notebook**: Click the badge below to open the notebook directly in Google Colab:
-    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/你的GitHub用户名/你的仓库名/blob/main/Crisis_Language_Detection.ipynb)
+   
 
 2.  **Run All**: In Colab, go to **Runtime > Run all**.
 
