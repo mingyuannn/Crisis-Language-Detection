@@ -2,13 +2,7 @@
 
 
 
-## Performance Summary
-| Model | Recall | Precision | F1-Score | AUC-ROC |
-| :--- | :---: | :---: | :---: | :---: |
-| **Naive Bayes** | **0.9466** | 0.8840 | 0.9142 | 0.9730 |
-| Logistic Regression | 0.9398 | 0.7899 | 0.8584 | 0.9409 |
 
----
 
 ## How to Run
 
