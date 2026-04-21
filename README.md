@@ -1,6 +1,6 @@
 # Crisis-Language-Detection
 
-This project identifies at-risk social media posts using NLP. We prioritize **Recall** to minimize the risk of missing critical "at-risk" indicators.
+
 
 ## Performance Summary
 | Model | Recall | Precision | F1-Score | AUC-ROC |
