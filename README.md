@@ -168,7 +168,9 @@ The notebook includes:
 
 ## Running the Streamlit App
 
-Run locally:
+**Live Demo:** https://crisis-language-detection-paml.streamlit.app
+
+Or run locally:
 
 ```bash
 streamlit run app.py
